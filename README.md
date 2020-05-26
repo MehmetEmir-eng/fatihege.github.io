@@ -1,6 +1,6 @@
 # fatihege.github.io
 Fatih EGE's WebSite in GitHub
 
-**E-Mail : fatihxege@gmail.com**,
+**E-Mail** : fatihxege@gmail.com
 
-**GitHub : [https://github.com/fatihege]fatihege**
+**GitHub** : [fatihege](https://github.com/fatihege)
