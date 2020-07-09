@@ -1,0 +1,18 @@
+#about-container #right-part #texts {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#about-container #right-part #texts h1 {
+    font-size: 50px;
+    font-family: "Raleway";
+    font-weight: 900;
+}
+
+#about-container #right-part #texts p {
+    font-size: 20px;
+    font-family: "Raleway";
+    font-weight: 200;
+}

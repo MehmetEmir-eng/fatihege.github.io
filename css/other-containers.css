@@ -1,0 +1,25 @@
+.container {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: #262626;
+    top: 0;
+    color: #fff;
+    transition: opacity 0.2s;
+}
+
+#projects-container,
+#about-container,
+#contact-container {
+    z-index: 4;
+    opacity: 0;
+    display: none;
+}
+
+.container .right-part {
+    width: 70vw;
+    height: 100vh;
+    float: right;
+    position: relative;
+    background: transparent;
+}
