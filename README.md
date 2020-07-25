@@ -5,7 +5,7 @@ Fatih EGE's WebSite in GitHub
 
 **Gmail** : [fatihxege@gmail.com](mailto:fatihxege@gmail.com)
 
-**Outlook** : [ifatihege@outlook.com](mailto: ifatihege@outlook.com)
+**Outlook** : [ifatihege@outlook.com](mailto:ifatihege@outlook.com)
 
 **Instagram** : [ifatihege](https://www.instagram.com/ifatihege/)
 
